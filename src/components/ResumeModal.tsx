@@ -67,7 +67,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
               </span>
               <span className="flex items-center gap-1.5">
                 <Globe className="w-3.5 h-3.5 text-slate-400" />
-                <a href={PERSONAL_INFO.github} target="_blank" rel="noreferrer" className="hover:underline">github.com/abhayvinod</a>
+                <a href={PERSONAL_INFO.github} target="_blank" rel="noreferrer" className="hover:underline text-slate-900 font-medium">github.com/abhayvinod-web</a>
               </span>
             </div>
           </div>

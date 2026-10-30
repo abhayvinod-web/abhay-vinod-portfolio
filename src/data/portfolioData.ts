@@ -9,7 +9,7 @@ export const PERSONAL_INFO = {
   headline: "Building high-performance, resilient, and accessible software & web interfaces.",
   shortBio: "Passionate engineer focused on building fluid, state-resilient user experiences using React, TypeScript, and modern system architecture. Proven ability to translate complex product problem statements into functional, interactive prototypes.",
   status: "Open to New Opportunities",
-  github: "https://github.com/abhayvinod",
+  github: "https://github.com/abhayvinod-web",
   linkedin: "https://linkedin.com/in/abhay-vinod",
   stats: [
     { label: "Working Prototypes", value: "6+" },
